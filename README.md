@@ -5,7 +5,7 @@
    
 # YOUTUBE LINK:-
      
-            https://youtu.be/NpM7nqpHDXI
+  https://youtu.be/NpM7nqpHDXI
  
 ## A Simple bot that was designed to perform calculations and  using HTML,CSS and JAVASCRIPT.
 
@@ -51,11 +51,11 @@
            
 # REPL.IT LINK:-
 
-           https://webForChatBot.preetham43.repl.co
+  https://webForChatBot.preetham43.repl.co
            
- Screenshots :-
+ # Screenshots :-
           
-           ![sc1](https://user-images.githubusercontent.com/73075686/97215982-2c204d80-17eb-11eb-8111-a7047c7b7687.png)
+   ![sc1](https://user-images.githubusercontent.com/73075686/97215982-2c204d80-17eb-11eb-8111-a7047c7b7687.png)
 
            
 
