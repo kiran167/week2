@@ -7,7 +7,9 @@
      
   https://youtu.be/NpM7nqpHDXI
  
-## A Simple bot that was designed to perform calculations and  using HTML,CSS and JAVASCRIPT.
+## A Simple funny bot that was designed to perform calculations and also gives winners of IPL matches.
+
+## Designed using HTML,CSS and JAVASCRIPT.
 
 ## How it Works....?
 
