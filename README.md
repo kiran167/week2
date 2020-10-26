@@ -42,17 +42,17 @@
 # Step 5:-
         IF THE USER INPUTS 3 THEN THE BOT SAYS BYE AND QUITS.
         
-# YOUTUBE LINK:-
          
-           https://youtu.be/NpM7nqpHDXI
+           [youtube link](https://youtu.be/NpM7nqpHDXI)
            
 # REPL.IT LINK:-
 
            https://webForChatBot.preetham43.repl.co
            
- # Screenshots :-
+ Screenshots :-
           
-   
+           ![sc1](https://user-images.githubusercontent.com/73075686/97215982-2c204d80-17eb-11eb-8111-a7047c7b7687.png)
+
            
 
 
