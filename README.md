@@ -1,6 +1,6 @@
 
 # Team Members
-   Sasi Preetham : 18pa1a1249
+   Sasi Preetham : 18pa1a1243
    kiran Reddy : 18pa1a1240
  
 ## A Simple bot that was designed to perform calculations and  using HTML,CSS and JAVASCRIPT.
@@ -31,16 +31,28 @@
         
         3) AGAIN IT ASKS REPEATS FROM STEP 1.
      
-# Step 3:-
+# Step 4:-
 
         1) IF THE USER INPUTS 2 IT INVOKES IPL FUNCTION.
         
         2) IT GIVES THE MATCH WINNER OF PARTICULAR MATCH.
         
-        3) AGAIN IT REPEATS FROM STEP 1.
+        4) AGAIN IT REPEATS FROM STEP 1.
         
-# Step 4:-
+# Step 5:-
         IF THE USER INPUTS 3 THEN THE BOT SAYS BYE AND QUITS.
+        
+# YOUTUBE LINK:-
+         
+           https://youtu.be/NpM7nqpHDXI
+           
+# REPL.IT LINK:-
+
+           https://webForChatBot.preetham43.repl.co
+           
+ # Screenshots :-
+ 
+ 
         
         
         
