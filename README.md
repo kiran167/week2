@@ -43,7 +43,7 @@
         IF THE USER INPUTS 3 THEN THE BOT SAYS BYE AND QUITS.
         
          
-           [youtube link](https://youtu.be/NpM7nqpHDXI)
+           https://youtu.be/NpM7nqpHDXI
            
 # REPL.IT LINK:-
 
