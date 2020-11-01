@@ -7,7 +7,7 @@
      
   https://youtu.be/NpM7nqpHDXI
  
-## A Simple funny bot that was designed to perform calculations and also gives winners of IPL matches.
+## A Simple funny bot that was designed to perform calculations and also gives crop rates.
 
 ## Designed using HTML,CSS and JAVASCRIPT.
 
@@ -39,17 +39,14 @@
      
 # Step 4:-
 
-        1) IF THE USER INPUTS 2 IT INVOKES IPL FUNCTION.
+        1) IF THE USER INPUTS 2 IT INVOKES CROPRATES FUNCTION.
         
-        2) IT GIVES THE MATCH WINNER OF PARTICULAR MATCH.
+        2) IT GIVES THE PRICE OF CERTAIN CROP.
         
         4) AGAIN IT REPEATS FROM STEP 1.
         
 # Step 5:-
         IF THE USER INPUTS 3 THEN THE BOT SAYS BYE AND QUITS.
-        
-         
-           https://youtu.be/NpM7nqpHDXI
            
 # REPL.IT LINK:-
 
