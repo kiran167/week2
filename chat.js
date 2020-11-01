@@ -61,12 +61,14 @@ function evaluation(name){
     botreply(result);
 }
 
-function ipl(name){
+function croprates(name){
     dict = {
-        "1":"CSK vs MI CSK won the match",
-        "2":"DC vs KXIP DC won the match",
-        "3":"RCB vs SRH RCB won the match",
-
+        "tomatoes":"30/kg",
+        "potatoes":"40/kg",
+        "brinjal":"35/kg",
+        "onion":"80/kg",
+         "carrot":"40/kg",
+         "beetroot":"38/kg",
     };
     if(name in dict){
         botreply(dict[name]);
@@ -96,14 +98,14 @@ function start(){
       evaluation(name);
       is_true=false;
       botreply("Enter your choice");
-      botreply("1.Calculation  2.IPL  3.Exit");
+      botreply("1.Calculation  2.crop rates  3.Exit");
   }
 
   else if(is_false==true){
-    ipl(name);
+    croprates(name.toLowerCase());
     is_false=false;
     botreply("Enter your choice");
-    botreply("1.Calculation  2.IPL  3.Exit");
+    botreply("1.Calculation  2.crop rates  3.Exit");
 }
   else if(name=="1"){
     is_true=true;
@@ -111,7 +113,7 @@ function start(){
   }
   else if(name=="2"){
     is_false=true;
-    botreply("Enter match number ");
+    botreply("Enter crop name ");
   }
   else if(name=="3"){
     
@@ -121,7 +123,7 @@ function start(){
     var x = greeting(name);
     botreply(x);
     botreply("Enter your choice");
-    botreply("1.Calculation  2.IPL  3.Exit");
+    botreply("1.Calculation  2.crop rates  3.Exit");
   }
   
 }
